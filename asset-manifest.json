@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_chartjs_covidTracker_app/static/css/main.0bf0ba7a.chunk.css",
+    "main.css": "/react_chartjs_covidTracker_app/static/css/main.85e3f85e.chunk.css",
     "main.js": "/react_chartjs_covidTracker_app/static/js/main.d134e9f6.chunk.js",
     "main.js.map": "/react_chartjs_covidTracker_app/static/js/main.d134e9f6.chunk.js.map",
     "runtime-main.js": "/react_chartjs_covidTracker_app/static/js/runtime-main.d5aa5feb.js",
@@ -8,14 +8,14 @@
     "static/js/2.2b64558e.chunk.js": "/react_chartjs_covidTracker_app/static/js/2.2b64558e.chunk.js",
     "static/js/2.2b64558e.chunk.js.map": "/react_chartjs_covidTracker_app/static/js/2.2b64558e.chunk.js.map",
     "index.html": "/react_chartjs_covidTracker_app/index.html",
-    "static/css/main.0bf0ba7a.chunk.css.map": "/react_chartjs_covidTracker_app/static/css/main.0bf0ba7a.chunk.css.map",
+    "static/css/main.85e3f85e.chunk.css.map": "/react_chartjs_covidTracker_app/static/css/main.85e3f85e.chunk.css.map",
     "static/js/2.2b64558e.chunk.js.LICENSE.txt": "/react_chartjs_covidTracker_app/static/js/2.2b64558e.chunk.js.LICENSE.txt",
     "static/media/image.58792806.jpg": "/react_chartjs_covidTracker_app/static/media/image.58792806.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d5aa5feb.js",
     "static/js/2.2b64558e.chunk.js",
-    "static/css/main.0bf0ba7a.chunk.css",
+    "static/css/main.85e3f85e.chunk.css",
     "static/js/main.d134e9f6.chunk.js"
   ]
 }
